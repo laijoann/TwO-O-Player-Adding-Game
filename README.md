@@ -5,3 +5,6 @@ An OOP-based 2-player command-line game where players take turn to answer simple
 
 ## Learning Outcome
 To plan out a strategy in building an OOP-based command-line application with Ruby in order to practice and demonstrate my grasp of fundamental OOP.
+
+## Execute
+To play, enter "ruby main.rb" in command line. Glhf p:
