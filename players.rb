@@ -11,4 +11,7 @@ class Player
     @health -= 1
   end
 
+  def reset_health
+    @health = 3
+  end
 end
